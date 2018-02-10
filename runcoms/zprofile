@@ -63,7 +63,7 @@ if (( $#commands[(i)lesspipe(|.sh)] )); then
 fi
 
 # Timewarrior
-export TIMEWARRIORDB=~/Dropbox/tasks/timewarrior
+export TIMEWARRIORDB=~/ownCloud/tasks/timewarrior
 
 # Unlock ssh-agent
 if [ -z "$SSH_AUTH_SOCK" ] ; then
