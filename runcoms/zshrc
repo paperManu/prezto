@@ -12,3 +12,5 @@ fi
 
 # Customize to your needs...
 setopt nosharehistory
+
+export PATH=/usr/lib/ccache:${PATH}
