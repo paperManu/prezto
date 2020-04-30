@@ -63,4 +63,4 @@ if (( $#commands[(i)lesspipe(|.sh)] )); then
 fi
 
 # Timewarrior
-export TIMEWARRIORDB=~/ownCloud/tasks/timewarrior
+export TIMEWARRIORDB=~/Sync/tasks/timewarrior
